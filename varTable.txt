@@ -1,0 +1,11 @@
+reverseInt.py
+x = 11345, 13453, 54543
+
+twoSum.py
+nums = test cases: [1, 3, 1, 4, 5], [3, 4, 3, 5, 1], [5, 5, 3, 4, 4]
+target = test cases: 7, 9, 8
+h = empty Dictionary: {}
+i = iteratore
+num = indexed items: nums[0]
+n = target - num
+
