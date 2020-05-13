@@ -1,4 +1,5 @@
 class Solution:
+    # O(n) notation
     def twoSum(self, nums, target):
         """
         :type nums: List[int]

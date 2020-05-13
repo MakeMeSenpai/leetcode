@@ -1,6 +1,7 @@
 import sys
 
 class Solution:
+    # O(1) notation
     def reverse(self, x: int) -> int:
         # checks if our interger is too big to process
         if x >= sys.maxsize/10: #sys.maxsize is an outdated int checker when ints used to have a processing limit.
